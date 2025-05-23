@@ -1,0 +1,22 @@
+{
+  "name": "koiitree-task",
+  "version": "1.0.0",
+  "description": 'Grow a TREE task node. Earn tokens. Support a greener web today.',
+  "main": "index.js",
+  "scripts": {
+    "build": "webpack",
+    "start": "yarn start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "ts-loader": "^9.5.2",
+    "typescript": "^5.8.3",
+    "webpack": "^5.99.9",
+    "webpack-cli": "^6.0.1"
+  },
+  "dependencies": {
+    "@_koii/task-manager": "^1.0.14"
+  }
+}
